@@ -1,2 +1,3 @@
-# RubyLearning
-Collection of coding challenge and common interview question  solutions 
+## Parentheses Balancer:
+
+This is my implementation of a parentheses balancer using a stack.
